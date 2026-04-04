@@ -1,0 +1,30 @@
+# --- Python Virtual Environments ---
+.venv/
+venv/
+env/
+__pycache__/
+*.pyc
+
+# --- Jupyter Notebooks ---
+.ipynb_checkpoints/
+
+# --- Raw Audio Datasets (Do not push gigabytes of audio!) ---
+la/
+training_data/
+*.flac
+*.wav
+
+# --- Feature Extraction Caches ---
+asvspoof_train_cache/
+hindi_train_cache/
+*.npy
+
+# --- OS Generated Files ---
+.DS_Store
+Thumbs.db
+
+# test files
+test.py
+
+#incomplete model
+*del3.0*
