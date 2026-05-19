@@ -1,0 +1,14 @@
+# Core Deep Learning Framework
+tensorflow>=2.15.0
+
+# Frontend UI & Interactive Dashboard
+streamlit>=1.35.0
+
+# Digital Signal Processing & Acoustic Feature Extraction
+librosa>=0.10.1
+scipy>=1.11.0
+soundfile>=0.12.1
+
+# Data Manipulation & Visualization Structures
+numpy>=1.23.5,<2.0.0
+pandas>=2.1.0
